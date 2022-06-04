@@ -1,0 +1,21 @@
+Principais Conceito sobre a linguagem Kotlin e desenvolvimento Android.
+
+Desenvolvimento Android:
+
+> Híbrido X Nativo
+> Java, Kotlin, Dart, Javascript e C#.
+> Documentação: https://developer.android.com/docs?hl=pt-br
+
+
+Kotlin?
+
+> Criada pela JetBrains em 2011, atualmente mantida pala Kotlin foundation;
+> Linguagem multiplataforma, orientada a objetos e funcional.
+
+Vantagens do Kotlin
+
+> segura, estruturada, menos verbosa, mais otimizada, grande relevância no mercado.
+> Interoperabilidade com java.
+Smarct cast e null safety.
+Android é kotlin firt.
+
