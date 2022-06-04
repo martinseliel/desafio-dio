@@ -1,0 +1,29 @@
+4º passo: No Visual Studio Code aperte Ctrl + '
+
+Assim que você apertar vai abrir o terminal do Visual Studio Code.
+5º passo: Verifique se você está usando﻿ o Git bash e não outro (como o powerShell).
+
+Olhe na caixinha do lado superior direito do terminal do Visual Studio Code (perto do + ), nessa caixinha tem que ta escrito "Bash".
+6º passo: No terminal digite "git init" (Para iniciar seu repositório)
+
+7º passo: Digite: "git add ." (para informar o git que arquivos queremos enviar)
+
+No caso do " . " Vai adiconar tudo.
+8º passo: Para comentar o que foi mudado
+
+Digite: git commit -m "Seu comentário aqui"
+
+9º passo: Ligar os repositórios
+
+Até agora tem dois repositórios distintos um local (na sua máquina) e um remoto (no git hub)
+Para ligar os dois:
+
+Digite: "git remote add origin link do seu repositório"
+
+EX:
+
+"git remote add origin https://github.com/imnotannamaria/Portfolio"
+
+10º passo: Para enviar o repositório: "git push -u origin master"
+
+Fonte: https://balta.io/blog/git-github-primeiros-passos#seu-portifólio
